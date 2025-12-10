@@ -33,15 +33,6 @@ This project demonstrates production-level backend engineering, enterprise SQL l
 
 ---
 
-## 📁 Repository Structure
-
-├── demo video.mp4 # Full video demo
-├── EERD.pdf # Enhanced Entity Relationship Diagram
-├── relational schema final.pdf # Relational database schema
-├── assets/
-│   └── demo.gif # GIF used in README
-└── UniversityHRSystem128/ # Complete project source code
-
 
 ---
 
@@ -117,3 +108,9 @@ This system mirrors real HR enterprise environments.
    EXEC createAllTables;
 4. Insert sample data as needed.
 5. Run the project through Visual Studio.
+
+## Test Credentials
+
+- **Admin:** Username: "aly", Password: "aly123"  
+- **HR Employee:** Username: "4", Password: "908"    
+- **Academic Employee:** Username: "1", Password: "123"   
