@@ -107,3 +107,8 @@ This system mirrors real HR enterprise environments.
 - **Admin:** Username: "aly", Password: "aly123"  
 - **HR Employee:** Username: "4", Password: "908"    
 - **Academic Employee:** Username: "1", Password: "123"   
+
+## Additional Files
+
+- **EERD.pdf:** Enhanced Entity Relationship Diagram for the database
+- **relational schema final.pdf:** Relational Schema for the database
