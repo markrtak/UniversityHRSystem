@@ -23,13 +23,8 @@ This project demonstrates production-level backend engineering, enterprise SQL l
 
 ## 🎥 Project Demo
 
-### 🌟 **Live Preview (GIF)**  
-*(Replace with your real GIF path)*  
-![System Demo](assets/demo.gif)
-
 ### 🎬 **Full-Length Walkthrough Video**  
-*(Replace with your GitHub Release link)*  
-👉 **[Watch the complete demo](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0/demo-video.mp4)**
+👉 **[Watch the complete demo]([https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0/demo-video.mp4](https://drive.google.com/file/d/1tqF-SIhw13IES8K-ktR7nazSod6abxl_/view))**
 
 ---
 
