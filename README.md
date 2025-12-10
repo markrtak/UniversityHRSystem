@@ -29,8 +29,6 @@ This project demonstrates production-level backend engineering, enterprise SQL l
 ---
 
 
----
-
 ## 🚀 Key Features
 
 ### 🔐 **Multi-Role Authentication**
